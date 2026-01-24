@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "mfcurve"]
+	path = mfcurve
+	url = https://github.com/xam12/mfcurve_r
